@@ -1,0 +1,29 @@
+:root {
+    /** COLORS **/
+    --main-bg-color: #0f172a;
+    --primary-color: #ffc73b;
+    --error-color: #f16558;
+    --font-text: #fff;
+    --font-text-secondary: #333;
+    --button-hover-color: dodgerblue;
+
+    /** FONTS **/
+    --main-font: 'monospace';
+    --font-size: 1.1rem;
+    --font-size-mobile: .95rem;
+    --font-header: 1.5rem;
+    --font-size-buttons: .76rem;
+
+    /** GENERAL **/
+    --box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    --border-radius: 5px;
+
+    /** MEASURES **/
+    --header-height: 4.4rem;
+
+    --ms-font-size: 1.1rem;
+    --ms-tag-font-weight: 0;
+
+    /** RESPONSIVE **/
+    --responsive-mobile: 767px;
+}
